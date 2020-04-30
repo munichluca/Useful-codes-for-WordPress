@@ -1,2 +1,2 @@
-# WordPress-Short-Codes
+# Useful-codes-for-WordPress
 Short codes for WordPress
